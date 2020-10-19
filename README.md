@@ -2,7 +2,5 @@
 
 # Table of Content
 
-- Machine Learning
-
-  - Data pre-processing
+- Data pre-processing
   
