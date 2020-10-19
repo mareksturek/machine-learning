@@ -4,5 +4,5 @@
 
 - Machine Learning
 
-  - Data Pre-processing
+  - Data pre-processing
   
