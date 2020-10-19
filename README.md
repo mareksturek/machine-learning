@@ -10,7 +10,7 @@
     - Polynomial regression
     - Support Vector regression
     - Decision Tree regression
-    - Random Forest 
+    - Random Forest regression
 
 - Classification
     - Logistic regression
@@ -19,7 +19,7 @@
     - Kernel SVM
     - Naive Bayes
     - Decision Tree
-    - Random Forest
+    - Random Forest 
 
 - Clustering
     - K-Means clustering
