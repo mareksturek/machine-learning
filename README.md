@@ -15,7 +15,7 @@
 - Classification
     - Logistic regression
     - k-Nearest Neighbors
-    - Support Vector machine
+    - Support Vector machine 
     - Kernel SVM
     - Naive Bayes
     - Decision Tree
@@ -33,16 +33,20 @@
     - Upper Confidence Bound
     - Thompson sampling
 
-- Natural langugage
+- Natural langugage processing
 
 - Dimensionality
     - Principal component
     - Linear discriminant
     - Kernel PCA
     
-- Model Selection
-    - k-Fold Cross validation
-    - Grid Search
+- Boosting 
+
+    - Model Selection
+    
+        - k-fold cross validation
+        - Grid Search
+    
     - XGBoost
     
     
