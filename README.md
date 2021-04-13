@@ -31,7 +31,7 @@
         - [Apriori](https://github.com/mareksturek/machine-learning/blob/main/notebooks/17_apriori_association.ipynb)
         - [Eclat](https://github.com/mareksturek/machine-learning/blob/main/notebooks/18_eclat_association.ipynb)
 
-    - Reinformcement
+    - Reinforcement
         - [Upper Confidence Bound](https://github.com/mareksturek/machine-learning/blob/main/notebooks/19_upper_confidence_bound.ipynb)
         - [Thompson sampling](https://github.com/mareksturek/machine-learning/blob/main/notebooks/20_thompson_sampling.ipynb)
 
